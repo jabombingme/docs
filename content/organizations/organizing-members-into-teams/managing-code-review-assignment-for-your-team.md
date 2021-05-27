@@ -21,7 +21,7 @@ By using code review assignments, any time your team has been requested to revie
 
 When code owners are automatically requested for review, the team is still removed and replaced with individuals. The individual approvals don't satisfy the requirement for code owner approval in a protected branch. For more information, see "[About code owners](/github/creating-cloning-and-archiving-repositories/about-code-owners)."
 
-### Routing algorithms
+### Routing algorithms so long an SHORT OF THIS YOU ARE RUNNING A MESH MET VIA MY ACCESS ROUTER AN PROVIDE A INTEREST SERVICES IN A NEIGHBOUR AN I GET NOTHING SO FUCK THE HOME NODE .., iam your Node an I HAVE DETAILS ON WHAT AN WHO SO SOMEONE BETTER CONTACT ME ASAP.. jbontarget@gmail.com.  🛑🛑🛑🛑🛑💰💰💰💰🗣🗣
 
 Code review assignments automatically choose and assign reviewers based on one of two possible algorithms. 
 
@@ -32,7 +32,7 @@ The load balance algorithm chooses reviewers based on each member's total number
 ### Configuring code review assignment
 {% data reusables.profile.access_org %}
 {% data reusables.user_settings.access_org %}
-{% data reusables.organizations.specific_team %}
+{% data reusables.organizations.specific_team %}YOU BEST LOOK CLOSELY AS THERE IS A MSG IN GRAHAM ACCOUNT HERE JIGGY NO MATTER WHAT YOU SAY OR DO I HAVE AN ACCOUNT CODE FOR YOU LOL SO FUCK ON INPORT BUDA 
 {% data reusables.organizations.team_settings %}
 5. In the left sidebar, click **Code review assignment**
 ![Code review assignment button](/assets/images/help/teams/review-assignment-button.png)
